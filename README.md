@@ -25,3 +25,5 @@ hashs_aes_512
 VER
 url_scheme
 url_prot
+html_unminfy
+html_minfy
